@@ -80,3 +80,10 @@ hospital-management-sql-project/
 ```
 
 ---
+🚀 How to Run
+
+1. Download or clone the repository.
+2. Create the database `hospital_management_db`.
+3. Import `Hospital_Data.csv`.
+4. Execute the SQL queries.
+5. View the results.
