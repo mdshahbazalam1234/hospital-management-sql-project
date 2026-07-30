@@ -87,3 +87,21 @@ hospital-management-sql-project/
 3. Import `Hospital_Data.csv`.
 4. Execute the SQL queries.
 5. View the results.
+
+
+📄 Files Included
+
+| File | Description |
+|------|-------------|
+| README.md | Project documentation |
+| Hospital_Data.csv | Dataset |
+| hospital_management_queries.sql | All SQL queries |
+| Hospital_SQL_Assignment_Answers.pdf | Assignment answers |
+
+---
+
+## 👨‍💻 Author
+
+**MD Shahbaz Alam**
+
+GitHub: https://github.com/mdshahbazalam1234
