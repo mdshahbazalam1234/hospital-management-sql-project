@@ -66,3 +66,17 @@ This project includes the following SQL analysis tasks:
 8. Calculate the average length of stay for each department.
 9. Find the department with the lowest number of patients.
 10. Generate a monthly medical expenses report.
+
+
+ 📁 Project Structure
+
+```text
+hospital-management-sql-project/
+│
+├── README.md
+├── Hospital_Data.csv
+├── hospital_management_queries.sql
+└── Hospital_SQL_Assignment_Answers.pdf
+```
+
+---
