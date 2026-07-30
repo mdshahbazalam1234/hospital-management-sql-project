@@ -52,3 +52,17 @@ This project was developed using the following technologies:
 - CSV Dataset
 - Git & GitHub
 
+## 📋 Assignment Questions
+
+This project includes the following SQL analysis tasks:
+
+1. Find the total number of patients across all hospitals.
+2. Calculate the average number of doctors per hospital.
+3. Identify the top 3 departments with the highest number of patients.
+4. Find the hospital with the maximum medical expenses.
+5. Calculate the daily average medical expenses for each hospital.
+6. Identify the patient with the longest hospital stay.
+7. Count the total patients treated in each city.
+8. Calculate the average length of stay for each department.
+9. Find the department with the lowest number of patients.
+10. Generate a monthly medical expenses report.
