@@ -31,3 +31,12 @@ The main objectives of this project are:
 * Perform date-based analysis such as hospital stay duration and monthly expense reports.
 * Strengthen SQL problem-solving skills through real-world business scenarios.
 * Build a portfolio-ready SQL project for GitHub, LinkedIn, and resume.
+
+
+## 📂 Dataset Information
+
+The dataset used in this project contains hospital-related records, including patient information, hospital names, departments, doctors, admission and discharge dates, cities, and medical expenses.
+
+**Database Name:** `hospital_management_db`
+
+**Table Name:** `hospital_data`
