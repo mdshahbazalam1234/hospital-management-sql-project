@@ -40,3 +40,15 @@ The dataset used in this project contains hospital-related records, including pa
 **Database Name:** `hospital_management_db`
 
 **Table Name:** `hospital_data`
+
+
+## 🛠 Technologies Used
+
+This project was developed using the following technologies:
+
+- PostgreSQL
+- SQL
+- pgAdmin 4
+- CSV Dataset
+- Git & GitHub
+
